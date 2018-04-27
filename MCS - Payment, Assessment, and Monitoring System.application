@@ -8,7 +8,7 @@
         <beforeApplicationStartup />
       </update>
     </subscription>
-    <deploymentProvider codebase="https://github.com/darkholds/mcs_pams/MCS%20-%20Payment,%20Assessment,%20and%20Monitoring%20System.application/MCS%20-%20Payment,%20Assessment,%20and%20Monitoring%20System.application" />
+    <deploymentProvider codebase="https://github.com/darkholds/mcs_pams/MCS%20-%20Payment,%20Assessment,%20and%20Monitoring%20System.application" />
   </deployment>
   <compatibleFrameworks xmlns="urn:schemas-microsoft-com:clickonce.v2">
     <framework targetVersion="4.5.2" profile="Full" supportedRuntime="4.0.30319" />
