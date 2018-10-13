@@ -1,0 +1,133 @@
+C:\Users\darkholds\Documents\Visual Studio 2017\Projects\AccountingMgt_2\AccountingMgt\bin\Release\MySql.Data.dll
+C:\Users\darkholds\Documents\Visual Studio 2017\Projects\AccountingMgt_2\AccountingMgt\obj\Release\AccountingMgt.frmAssessment.resources
+C:\Users\darkholds\Documents\Visual Studio 2017\Projects\AccountingMgt_2\AccountingMgt\obj\Release\AccountingMgt.frmFees.resources
+C:\Users\darkholds\Documents\Visual Studio 2017\Projects\AccountingMgt_2\AccountingMgt\obj\Release\AccountingMgt.frmLogin.resources
+C:\Users\darkholds\Documents\Visual Studio 2017\Projects\AccountingMgt_2\AccountingMgt\obj\Release\AccountingMgt.frmMDI.resources
+C:\Users\darkholds\Documents\Visual Studio 2017\Projects\AccountingMgt_2\AccountingMgt\obj\Release\AccountingMgt.frmReport.resources
+C:\Users\darkholds\Documents\Visual Studio 2017\Projects\AccountingMgt_2\AccountingMgt\obj\Release\AccountingMgt.frmStudent.resources
+C:\Users\darkholds\Documents\Visual Studio 2017\Projects\AccountingMgt_2\AccountingMgt\obj\Release\AccountingMgt.frmSummary.resources
+C:\Users\darkholds\Documents\Visual Studio 2017\Projects\AccountingMgt_2\AccountingMgt\obj\Release\AccountingMgt.Properties.Resources.resources
+C:\Users\darkholds\Documents\Visual Studio 2017\Projects\AccountingMgt_2\AccountingMgt\obj\Release\AccountingMgt.csproj.GenerateResource.Cache
+C:\Users\darkholds\Documents\Visual Studio 2017\Projects\AccountingMgt_2\AccountingMgt\obj\Release\AccountingMgt.csprojResolveAssemblyReference.cache
+C:\Users\darkholds\Documents\Visual Studio 2017\Projects\AccountingMgt_2\AccountingMgt\bin\Release\ISCOFDC - Assessment and Monitoring System.exe.config
+C:\Users\darkholds\Documents\Visual Studio 2017\Projects\AccountingMgt_2\AccountingMgt\bin\Release\ISCOFDC - Assessment and Monitoring System.exe.manifest
+C:\Users\darkholds\Documents\Visual Studio 2017\Projects\AccountingMgt_2\AccountingMgt\bin\Release\ISCOFDC - Assessment and Monitoring System.application
+C:\Users\darkholds\Documents\Visual Studio 2017\Projects\AccountingMgt_2\AccountingMgt\bin\Release\ISCOFDC - Assessment and Monitoring System.exe
+C:\Users\darkholds\Documents\Visual Studio 2017\Projects\AccountingMgt_2\AccountingMgt\bin\Release\ISCOFDC - Assessment and Monitoring System.pdb
+C:\Users\darkholds\Documents\Visual Studio 2017\Projects\AccountingMgt_2\AccountingMgt\obj\Release\ISCOFDC - Assessment and Monitoring System.exe.manifest
+C:\Users\darkholds\Documents\Visual Studio 2017\Projects\AccountingMgt_2\AccountingMgt\obj\Release\ISCOFDC - Assessment and Monitoring System.application
+C:\Users\darkholds\Documents\Visual Studio 2017\Projects\AccountingMgt_2\AccountingMgt\obj\Release\ISCOFDC - Assessment and Monitoring System.exe
+C:\Users\darkholds\Documents\Visual Studio 2017\Projects\AccountingMgt_2\AccountingMgt\obj\Release\ISCOFDC - Assessment and Monitoring System.pdb
+C:\Users\cict\Documents\Visual Studio 2017\Projects\MCS_PAS2\AccountingMgt\bin\Release\SqlServerTypes\x64\msvcr120.dll
+C:\Users\cict\Documents\Visual Studio 2017\Projects\MCS_PAS2\AccountingMgt\bin\Release\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\cict\Documents\Visual Studio 2017\Projects\MCS_PAS2\AccountingMgt\bin\Release\SqlServerTypes\x86\msvcr120.dll
+C:\Users\cict\Documents\Visual Studio 2017\Projects\MCS_PAS2\AccountingMgt\bin\Release\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\cict\Documents\Visual Studio 2017\Projects\MCS_PAS2\AccountingMgt\bin\Release\MCS - Payment, Assessment, and Monitoring System.exe.config
+C:\Users\cict\Documents\Visual Studio 2017\Projects\MCS_PAS2\AccountingMgt\bin\Release\MCS - Payment, Assessment, and Monitoring System.exe.manifest
+C:\Users\cict\Documents\Visual Studio 2017\Projects\MCS_PAS2\AccountingMgt\bin\Release\MCS - Payment, Assessment, and Monitoring System.application
+C:\Users\cict\Documents\Visual Studio 2017\Projects\MCS_PAS2\AccountingMgt\bin\Release\MCS - Payment, Assessment, and Monitoring System.exe
+C:\Users\cict\Documents\Visual Studio 2017\Projects\MCS_PAS2\AccountingMgt\bin\Release\MCS - Payment, Assessment, and Monitoring System.pdb
+C:\Users\cict\Documents\Visual Studio 2017\Projects\MCS_PAS2\AccountingMgt\bin\Release\Microsoft.ReportViewer.Common.dll
+C:\Users\cict\Documents\Visual Studio 2017\Projects\MCS_PAS2\AccountingMgt\bin\Release\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\cict\Documents\Visual Studio 2017\Projects\MCS_PAS2\AccountingMgt\bin\Release\Microsoft.ReportViewer.Design.dll
+C:\Users\cict\Documents\Visual Studio 2017\Projects\MCS_PAS2\AccountingMgt\bin\Release\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\cict\Documents\Visual Studio 2017\Projects\MCS_PAS2\AccountingMgt\bin\Release\Microsoft.ReportViewer.WinForms.dll
+C:\Users\cict\Documents\Visual Studio 2017\Projects\MCS_PAS2\AccountingMgt\bin\Release\Microsoft.SqlServer.Types.dll
+C:\Users\cict\Documents\Visual Studio 2017\Projects\MCS_PAS2\AccountingMgt\bin\Release\Microsoft.VisualStudio.CoreUtility.dll
+C:\Users\cict\Documents\Visual Studio 2017\Projects\MCS_PAS2\AccountingMgt\bin\Release\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\cict\Documents\Visual Studio 2017\Projects\MCS_PAS2\AccountingMgt\bin\Release\EnvDTE.dll
+C:\Users\cict\Documents\Visual Studio 2017\Projects\MCS_PAS2\AccountingMgt\bin\Release\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\cict\Documents\Visual Studio 2017\Projects\MCS_PAS2\AccountingMgt\bin\Release\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\cict\Documents\Visual Studio 2017\Projects\MCS_PAS2\AccountingMgt\bin\Release\Microsoft.VisualStudio.Shell.Interop.9.0.dll
+C:\Users\cict\Documents\Visual Studio 2017\Projects\MCS_PAS2\AccountingMgt\bin\Release\stdole.dll
+C:\Users\cict\Documents\Visual Studio 2017\Projects\MCS_PAS2\AccountingMgt\bin\Release\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\cict\Documents\Visual Studio 2017\Projects\MCS_PAS2\AccountingMgt\bin\Release\Microsoft.VisualStudio.VSHelp.dll
+C:\Users\cict\Documents\Visual Studio 2017\Projects\MCS_PAS2\AccountingMgt\bin\Release\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\cict\Documents\Visual Studio 2017\Projects\MCS_PAS2\AccountingMgt\bin\Release\Microsoft.VisualStudio.ProjectAggregator.dll
+C:\Users\cict\Documents\Visual Studio 2017\Projects\MCS_PAS2\AccountingMgt\bin\Release\Microsoft.VisualStudio.ComponentModelHost.dll
+C:\Users\cict\Documents\Visual Studio 2017\Projects\MCS_PAS2\AccountingMgt\bin\Release\Microsoft.VisualStudio.TemplateWizardInterface.dll
+C:\Users\cict\Documents\Visual Studio 2017\Projects\MCS_PAS2\AccountingMgt\bin\Release\Microsoft.VisualStudio.Debugger.InteropA.dll
+C:\Users\cict\Documents\Visual Studio 2017\Projects\MCS_PAS2\AccountingMgt\bin\Release\EnvDTE80.dll
+C:\Users\cict\Documents\Visual Studio 2017\Projects\MCS_PAS2\AccountingMgt\bin\Release\Microsoft.Build.Tasks.Core.dll
+C:\Users\cict\Documents\Visual Studio 2017\Projects\MCS_PAS2\AccountingMgt\bin\Release\Microsoft.VisualStudio.Data.Services.dll
+C:\Users\cict\Documents\Visual Studio 2017\Projects\MCS_PAS2\AccountingMgt\bin\Release\VSLangProj.dll
+C:\Users\cict\Documents\Visual Studio 2017\Projects\MCS_PAS2\AccountingMgt\bin\Release\Microsoft.VisualStudio.Shell.Interop.11.0.dll
+C:\Users\cict\Documents\Visual Studio 2017\Projects\MCS_PAS2\AccountingMgt\bin\Release\Microsoft.VisualStudio.Data.Core.dll
+C:\Users\cict\Documents\Visual Studio 2017\Projects\MCS_PAS2\AccountingMgt\bin\Release\Microsoft.VisualStudio.Shell.Interop.10.0.dll
+C:\Users\cict\Documents\Visual Studio 2017\Projects\MCS_PAS2\AccountingMgt\bin\Release\VSLangProj80.dll
+C:\Users\cict\Documents\Visual Studio 2017\Projects\MCS_PAS2\AccountingMgt\bin\Release\Microsoft.VisualStudio.ManagedInterfaces.dll
+C:\Users\cict\Documents\Visual Studio 2017\Projects\MCS_PAS2\AccountingMgt\bin\Release\Microsoft.VisualStudio.WCFReference.Interop.dll
+C:\Users\cict\Documents\Visual Studio 2017\Projects\MCS_PAS2\AccountingMgt\bin\Release\Microsoft.VisualStudio.Debugger.Interop.11.0.dll
+C:\Users\cict\Documents\Visual Studio 2017\Projects\MCS_PAS2\AccountingMgt\bin\Release\Microsoft.VisualStudio.GraphModel.dll
+C:\Users\cict\Documents\Visual Studio 2017\Projects\MCS_PAS2\AccountingMgt\bin\Release\Microsoft.MSXML.dll
+C:\Users\cict\Documents\Visual Studio 2017\Projects\MCS_PAS2\AccountingMgt\bin\Release\Microsoft.Build.Utilities.Core.dll
+C:\Users\cict\Documents\Visual Studio 2017\Projects\MCS_PAS2\AccountingMgt\bin\Release\Microsoft.VisualStudio.TextManager.Interop.10.0.dll
+C:\Users\cict\Documents\Visual Studio 2017\Projects\MCS_PAS2\AccountingMgt\bin\Release\Microsoft.Build.Framework.dll
+C:\Users\cict\Documents\Visual Studio 2017\Projects\MCS_PAS2\AccountingMgt\bin\Release\VSLangProj2.dll
+C:\Users\cict\Documents\Visual Studio 2017\Projects\MCS_PAS2\AccountingMgt\bin\Release\Microsoft.VisualStudio.CoreUtility.xml
+C:\Users\cict\Documents\Visual Studio 2017\Projects\MCS_PAS2\AccountingMgt\bin\Release\Microsoft.VisualStudio.OLE.Interop.xml
+C:\Users\cict\Documents\Visual Studio 2017\Projects\MCS_PAS2\AccountingMgt\bin\Release\Microsoft.VisualStudio.TemplateWizardInterface.xml
+C:\Users\cict\Documents\Visual Studio 2017\Projects\MCS_PAS2\AccountingMgt\bin\Release\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\cict\Documents\Visual Studio 2017\Projects\MCS_PAS2\AccountingMgt\bin\Release\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\cict\Documents\Visual Studio 2017\Projects\MCS_PAS2\AccountingMgt\bin\Release\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\cict\Documents\Visual Studio 2017\Projects\MCS_PAS2\AccountingMgt\bin\Release\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\cict\Documents\Visual Studio 2017\Projects\MCS_PAS2\AccountingMgt\bin\Release\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\cict\Documents\Visual Studio 2017\Projects\MCS_PAS2\AccountingMgt\bin\Release\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\cict\Documents\Visual Studio 2017\Projects\MCS_PAS2\AccountingMgt\bin\Release\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\cict\Documents\Visual Studio 2017\Projects\MCS_PAS2\AccountingMgt\bin\Release\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\cict\Documents\Visual Studio 2017\Projects\MCS_PAS2\AccountingMgt\bin\Release\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\cict\Documents\Visual Studio 2017\Projects\MCS_PAS2\AccountingMgt\bin\Release\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\cict\Documents\Visual Studio 2017\Projects\MCS_PAS2\AccountingMgt\bin\Release\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\cict\Documents\Visual Studio 2017\Projects\MCS_PAS2\AccountingMgt\bin\Release\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\cict\Documents\Visual Studio 2017\Projects\MCS_PAS2\AccountingMgt\bin\Release\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\cict\Documents\Visual Studio 2017\Projects\MCS_PAS2\AccountingMgt\bin\Release\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\cict\Documents\Visual Studio 2017\Projects\MCS_PAS2\AccountingMgt\bin\Release\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\cict\Documents\Visual Studio 2017\Projects\MCS_PAS2\AccountingMgt\bin\Release\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\cict\Documents\Visual Studio 2017\Projects\MCS_PAS2\AccountingMgt\bin\Release\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\cict\Documents\Visual Studio 2017\Projects\MCS_PAS2\AccountingMgt\bin\Release\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\cict\Documents\Visual Studio 2017\Projects\MCS_PAS2\AccountingMgt\bin\Release\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\cict\Documents\Visual Studio 2017\Projects\MCS_PAS2\AccountingMgt\bin\Release\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\cict\Documents\Visual Studio 2017\Projects\MCS_PAS2\AccountingMgt\bin\Release\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\cict\Documents\Visual Studio 2017\Projects\MCS_PAS2\AccountingMgt\bin\Release\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\cict\Documents\Visual Studio 2017\Projects\MCS_PAS2\AccountingMgt\bin\Release\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\cict\Documents\Visual Studio 2017\Projects\MCS_PAS2\AccountingMgt\bin\Release\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\cict\Documents\Visual Studio 2017\Projects\MCS_PAS2\AccountingMgt\bin\Release\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\cict\Documents\Visual Studio 2017\Projects\MCS_PAS2\AccountingMgt\bin\Release\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\cict\Documents\Visual Studio 2017\Projects\MCS_PAS2\AccountingMgt\bin\Release\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\cict\Documents\Visual Studio 2017\Projects\MCS_PAS2\AccountingMgt\bin\Release\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\cict\Documents\Visual Studio 2017\Projects\MCS_PAS2\AccountingMgt\bin\Release\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\cict\Documents\Visual Studio 2017\Projects\MCS_PAS2\AccountingMgt\bin\Release\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\cict\Documents\Visual Studio 2017\Projects\MCS_PAS2\AccountingMgt\bin\Release\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\cict\Documents\Visual Studio 2017\Projects\MCS_PAS2\AccountingMgt\bin\Release\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\cict\Documents\Visual Studio 2017\Projects\MCS_PAS2\AccountingMgt\bin\Release\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\cict\Documents\Visual Studio 2017\Projects\MCS_PAS2\AccountingMgt\bin\Release\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\cict\Documents\Visual Studio 2017\Projects\MCS_PAS2\AccountingMgt\bin\Release\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\cict\Documents\Visual Studio 2017\Projects\MCS_PAS2\AccountingMgt\bin\Release\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\cict\Documents\Visual Studio 2017\Projects\MCS_PAS2\AccountingMgt\bin\Release\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\cict\Documents\Visual Studio 2017\Projects\MCS_PAS2\AccountingMgt\bin\Release\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\cict\Documents\Visual Studio 2017\Projects\MCS_PAS2\AccountingMgt\bin\Release\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\cict\Documents\Visual Studio 2017\Projects\MCS_PAS2\AccountingMgt\bin\Release\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\cict\Documents\Visual Studio 2017\Projects\MCS_PAS2\AccountingMgt\obj\Release\AccountingMgt.csprojResolveAssemblyReference.cache
+C:\Users\cict\Documents\Visual Studio 2017\Projects\MCS_PAS2\AccountingMgt\obj\Release\MCS - Payment, Assessment, and Monitoring System.exe.config
+C:\Users\cict\Documents\Visual Studio 2017\Projects\MCS_PAS2\AccountingMgt\obj\Release\AccountingMgt.frmAccounts.resources
+C:\Users\cict\Documents\Visual Studio 2017\Projects\MCS_PAS2\AccountingMgt\obj\Release\AccountingMgt.frmAssessment.resources
+C:\Users\cict\Documents\Visual Studio 2017\Projects\MCS_PAS2\AccountingMgt\obj\Release\AccountingMgt.frmChangePW.resources
+C:\Users\cict\Documents\Visual Studio 2017\Projects\MCS_PAS2\AccountingMgt\obj\Release\AccountingMgt.frmDisbursement.resources
+C:\Users\cict\Documents\Visual Studio 2017\Projects\MCS_PAS2\AccountingMgt\obj\Release\AccountingMgt.frmFee.resources
+C:\Users\cict\Documents\Visual Studio 2017\Projects\MCS_PAS2\AccountingMgt\obj\Release\AccountingMgt.frmFees.resources
+C:\Users\cict\Documents\Visual Studio 2017\Projects\MCS_PAS2\AccountingMgt\obj\Release\AccountingMgt.frmLogin.resources
+C:\Users\cict\Documents\Visual Studio 2017\Projects\MCS_PAS2\AccountingMgt\obj\Release\AccountingMgt.frmMain.resources
+C:\Users\cict\Documents\Visual Studio 2017\Projects\MCS_PAS2\AccountingMgt\obj\Release\AccountingMgt.frmMDI.resources
+C:\Users\cict\Documents\Visual Studio 2017\Projects\MCS_PAS2\AccountingMgt\obj\Release\AccountingMgt.frmOtherPayment.resources
+C:\Users\cict\Documents\Visual Studio 2017\Projects\MCS_PAS2\AccountingMgt\obj\Release\AccountingMgt.frmPayment.resources
+C:\Users\cict\Documents\Visual Studio 2017\Projects\MCS_PAS2\AccountingMgt\obj\Release\AccountingMgt.frmPaymentMgt.resources
+C:\Users\cict\Documents\Visual Studio 2017\Projects\MCS_PAS2\AccountingMgt\obj\Release\AccountingMgt.frmReport.resources
+C:\Users\cict\Documents\Visual Studio 2017\Projects\MCS_PAS2\AccountingMgt\obj\Release\AccountingMgt.frmSummary.resources
+C:\Users\cict\Documents\Visual Studio 2017\Projects\MCS_PAS2\AccountingMgt\obj\Release\AccountingMgt.Properties.Resources.resources
+C:\Users\cict\Documents\Visual Studio 2017\Projects\MCS_PAS2\AccountingMgt\obj\Release\AccountingMgt.csproj.GenerateResource.cache
+C:\Users\cict\Documents\Visual Studio 2017\Projects\MCS_PAS2\AccountingMgt\obj\Release\AccountingMgt.csproj.CoreCompileInputs.cache
+C:\Users\cict\Documents\Visual Studio 2017\Projects\MCS_PAS2\AccountingMgt\obj\Release\MCS - Payment, Assessment, and Monitoring System.exe.manifest
+C:\Users\cict\Documents\Visual Studio 2017\Projects\MCS_PAS2\AccountingMgt\obj\Release\MCS - Payment, Assessment, and Monitoring System.application
+C:\Users\cict\Documents\Visual Studio 2017\Projects\MCS_PAS2\AccountingMgt\obj\Release\AccountingMgt.csproj.CopyComplete
+C:\Users\cict\Documents\Visual Studio 2017\Projects\MCS_PAS2\AccountingMgt\obj\Release\MCS - Payment, Assessment, and Monitoring System.exe
+C:\Users\cict\Documents\Visual Studio 2017\Projects\MCS_PAS2\AccountingMgt\obj\Release\MCS - Payment, Assessment, and Monitoring System.pdb

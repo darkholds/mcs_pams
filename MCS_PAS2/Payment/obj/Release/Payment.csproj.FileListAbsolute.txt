@@ -1,0 +1,17 @@
+C:\Users\darkholds\Documents\Visual Studio 2017\Projects\AccountingMgt_2\Payment\bin\Release\Payment.exe.config
+C:\Users\darkholds\Documents\Visual Studio 2017\Projects\AccountingMgt_2\Payment\bin\Release\Payment.exe
+C:\Users\darkholds\Documents\Visual Studio 2017\Projects\AccountingMgt_2\Payment\bin\Release\Payment.pdb
+C:\Users\darkholds\Documents\Visual Studio 2017\Projects\AccountingMgt_2\Payment\bin\Release\MySql.Data.dll
+C:\Users\darkholds\Documents\Visual Studio 2017\Projects\AccountingMgt_2\Payment\obj\Release\Payment.frmLogin.resources
+C:\Users\darkholds\Documents\Visual Studio 2017\Projects\AccountingMgt_2\Payment\obj\Release\Payment.frmMain.resources
+C:\Users\darkholds\Documents\Visual Studio 2017\Projects\AccountingMgt_2\Payment\obj\Release\Payment.frmPayment.resources
+C:\Users\darkholds\Documents\Visual Studio 2017\Projects\AccountingMgt_2\Payment\obj\Release\Payment.frmReport.resources
+C:\Users\darkholds\Documents\Visual Studio 2017\Projects\AccountingMgt_2\Payment\obj\Release\Payment.Properties.Resources.resources
+C:\Users\darkholds\Documents\Visual Studio 2017\Projects\AccountingMgt_2\Payment\obj\Release\Payment.csproj.GenerateResource.Cache
+C:\Users\darkholds\Documents\Visual Studio 2017\Projects\AccountingMgt_2\Payment\obj\Release\Payment.exe
+C:\Users\darkholds\Documents\Visual Studio 2017\Projects\AccountingMgt_2\Payment\obj\Release\Payment.pdb
+C:\Users\darkholds\Documents\Visual Studio 2017\Projects\AccountingMgt_2\Payment\obj\Release\Payment.csprojResolveAssemblyReference.cache
+C:\Users\darkholds\Documents\Visual Studio 2017\Projects\AccountingMgt_2\Payment\bin\Release\Payment.exe.manifest
+C:\Users\darkholds\Documents\Visual Studio 2017\Projects\AccountingMgt_2\Payment\bin\Release\Payment.application
+C:\Users\darkholds\Documents\Visual Studio 2017\Projects\AccountingMgt_2\Payment\obj\Release\Payment.exe.manifest
+C:\Users\darkholds\Documents\Visual Studio 2017\Projects\AccountingMgt_2\Payment\obj\Release\Payment.application
